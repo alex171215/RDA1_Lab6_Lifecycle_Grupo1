@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Laboratorio1"
+rootProject.name = "LifecycleMaster"
 include(":app")
  
